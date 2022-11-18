@@ -65,7 +65,9 @@ if len(sys.argv) == 2:
         copy  -> copy the saved data through keyword.
         help  -> command usage.
         show  -> list the saved data.
-        clear -> clear stored data through keyword or delete all\n''')
+        clear -> clear stored data through keyword or delete all\n
+        Usage:  python3 multiclipboard.py <command> 
+                python3 multiclipboard.py save''')
     elif command == 'clear':
         keyword = input('Enter the keyword for delete '
                         'or type \'clearall to clear all data.\': ')

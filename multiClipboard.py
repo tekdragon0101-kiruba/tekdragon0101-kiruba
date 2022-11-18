@@ -85,3 +85,5 @@ if len(sys.argv) == 2:
         print('Unknown command')
 else:
     print('required one command.?, type \'help\' get more...')
+    print('''Usage:  python3 multiclipboard.py <command> 
+                     python3 multiclipboard.py help''')

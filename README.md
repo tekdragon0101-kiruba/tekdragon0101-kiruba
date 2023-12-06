@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tekdragon0101-kiruba
-- 👀 I’m interested in computer Networking ,shell scripting, cyber security, python and bug bounty.
-- 🌱 I’m currently learning Python and Shell Scipting.
-- 💞️ I’m looking to collaborate on ... learning of linux operating system.
+- 👀 I’m interested in computer Networking, cyber security, python and bug bounty hunting.
+- 🌱 I’m currently learning "Java and Solving Problems in Hackerrank".
+- 💞️ I’m looking to collaborate on ... "Learn to find bug in BBP".
 - 📫 How to reach me ... gkalidassfarmer1963@gmail.com
 
 <!---

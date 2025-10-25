@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kirubakaran K
-- 👀 I’m interested in computer Networking, cyber security, programming languages and bug bounty hunting.
-- 🌱 I’m currently learning "Solving Problems in Hackerrank".
+- 👀 I’m currently working as SAP BTP Developer in SAP Business Technology Platform - Application Developement
+- 🌱 I’m interesting Solving Real World Business Problems using Tech.
 - 💞️ I’m looking to collaborate on ... "How to improve my skills to advance level".
 - 📫 How to reach me ... kirubakarankalidass@gmail.com
 
